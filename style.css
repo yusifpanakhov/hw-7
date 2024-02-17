@@ -1,0 +1,37 @@
+body{
+    background-color: aqua;
+}
+
+textarea{
+    margin-top: 100px;
+    margin-left: 100px;
+    border: none;
+}
+
+.greenbox{
+    background-color: green;
+    height: 30px;
+    width: 240px;
+    color: green;
+    margin-left: 99px;
+    position: absolute;
+    top: 80px;
+}
+
+.recylebin{
+    margin-left: 205px;
+}
+
+.note{
+    margin-left: 180px;
+    position: relative;
+    bottom: 30px;
+
+}
+
+.greenlogo{
+    position: relative;
+    right: 50px;
+}
+
+
